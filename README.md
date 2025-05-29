@@ -80,7 +80,7 @@ The project requires the following Python libraries:
 
 ## ✍️ Author
 
-[Your Name Here - please replace with your actual name]
+MohammadReza Zaheri
 
 ## 🧑‍🏫 Supervisor
 
