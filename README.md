@@ -88,5 +88,5 @@ Dr. Najmeh Hosseini Monjezi
 
 ## 🙏 Acknowledgments
 
-* The Modified Global K-Means algorithm implemented in this project is based on the research by Adil Bagirov. (It would be good to add a specific citation to the paper here if you have it).
+* The Modified Global K-Means algorithm implemented in this project is based on the research by Adil Bagirov. 
 * The datasets used are standard datasets available for clustering research.
